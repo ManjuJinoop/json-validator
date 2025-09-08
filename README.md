@@ -25,7 +25,7 @@ Live demo: _(add your Netlify or GitHub Pages URL here after deploy)_
 ## Quick Start (local)
 
 1. Install Node.js (recommended v18+ or Node 22.12+).  
-2. Clone the repo:
+2. app url:
 ```bash
-
+https://free-json-validator.netlify.app/
 
